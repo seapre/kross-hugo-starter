@@ -2,7 +2,7 @@ baseURL = "https://seapre.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Seapre's blog"
 [[menu.main]]
 URL = "about"
 name = "About"
