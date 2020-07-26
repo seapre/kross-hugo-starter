@@ -9,6 +9,8 @@ sections:
   label: Portfolio
   create: none
   match: "*"
+  templates:
+  - post
 - type: directory
   path: content/blog
   label: Post
